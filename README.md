@@ -1,2 +1,2 @@
-# EfficientDevelopmentReferenceExamples
-Efficient development reference examples.（高效开发参考示例）
+# JavaEfficientDevelopmentReferenceExamples
+Java efficient development reference examples.（Java 高效开发参考示例）
